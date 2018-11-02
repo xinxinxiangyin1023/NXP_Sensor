@@ -1,2 +1,5 @@
 # NXP_Sensor
-qn9080
+QN9080
+### ADC
+#### C
+#### Matlab ( Display )
